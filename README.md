@@ -1,9 +1,17 @@
-- Hi, I’m Alex
-- I’m interested in web developing
-- I’m currently learning Python & C & C++ & Go  langs
-- How to reach me rokirokz@mail.ru || rokirokz101101ross@gmail.com
+### Hi there 👋, My name is Alexey
+#### I am *backend* Web developer (Python/Golang)
+I'm 22 years old student with different types of skills. I've finished courses like: 'Python Development' from Yandex Practicum/ 'Algorithms and Structure of Data'  from Yandex Practicum / 'Web Development' from BMSTU
 
-<!---
-Longreader/Longreader is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Skills: PYTHON/ DOCKER / SQL / GO / HTML / CSS
+
+- 🔭 I’m currently working on Django backend application 
+- 🌱 I’m currently learning Golang microservices development  
+- 📫 How to reach me: **Telegram: @logosfero** 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Longreader)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Longreader&show_icons=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/Longreader)  
+
