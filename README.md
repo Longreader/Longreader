@@ -1,6 +1,6 @@
 ### Hi there, My name is Alexey
 #### I am *backend* Web developer (Python/Golang)
-I'm 22 years old student with different types of skills. I've finished courses like: 'Python Development' from Yandex Practicum/ 'Algorithms and Data structure'  from Yandex Practicum / 'Web Development' from BMSTU
+I'm 22 years old student with different types of skills. I've finished courses like: 'Python Development' && 'Go developer self pased' from Yandex Practicum/ 'Algorithms and Data structure'  from Yandex Practicum / 'Web Development' from BMSTU
 
 Skills: PYTHON/ DOCKER / SQL / GO / HTML / CSS
 
