@@ -4,7 +4,6 @@ I'm 22 years old student with different types of skills. I've finished courses l
 
 Skills: PYTHON/ DOCKER / SQL / GO / HTML / CSS
 
-- 🔭 I’m currently working on Django backend application 
 - 🌱 I’m currently learning Golang microservices development  
 - 📫 How to reach me: **Telegram: @logosfero** 
 
