@@ -1,16 +1,21 @@
-### Hi there, My name is Alexey
-#### I am *backend* Web developer (Python/Golang)
-I'm 22 years old student with different types of skills. I've finished courses like: 'Python Development' && 'Go developer self pased' from Yandex Practicum/ 'Algorithms and Data structure'  from Yandex Practicum / 'Web Development' from BMSTU
+# Alexey | Backend Web Developer
+Hi! 
+I'm a 24-year-old backend developer skilled in **Golang**. I enjoy building efficient, scalable solutions and am passionate about learning new technologies.
 
-Skills: Golang / DOCKER / SQL / PYTHON / HTML / CSS
+## About Me
+- 🎓 **Education**:  
+  - *Python Development* – Yandex Practicum  
+  - *Go Developer (Self-Paced)* – Yandex Practicum  
+  - *Algorithms & Data Structures* – Yandex Practicum  
+  - *Web Development* – BMSTU Tech Cource 
+- 🌱 **Currently Learning**: Golang microservices  
+- 💻 **Skills**: Golang, Python, SQL, Docker, RabbiMQ, Kafka, MongoDB 
+- 📫 **Contact**: Telegram: [@logosfero](https://t.me/logosfero)  
 
-- 🌱 I’m currently learning Golang microservices development  
-- 📫 How to reach me: **Telegram: @logosfero** 
+## Connect with Me
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="40">](https://github.com/Longreader)  
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="Telegram" height="40">](https://t.me/logosfero)  
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Longreader)  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Longreader&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/Longreader)  
-
+## Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Longreader&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Longreader&layout=compact&theme=radical)
